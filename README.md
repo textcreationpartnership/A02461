@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A sermon principally entreating of the crosse in Baptisme wherein also it is proued, against the vna
+
+1. THE EPISTLE TO the Reader.
+
 #####Body#####
-A sermon principally entreating of the crosse in Baptisme wherein also it is proued, against the vna
+
+1. A SERMON PRINCIpally entreating of the Croſſe in Baptiſme.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
